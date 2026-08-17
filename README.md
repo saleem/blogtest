@@ -1,2 +1,2 @@
 # blogtest
-Familiarizing myself with the blogging capabilities of GitHub pages
+Test site to familiarize myself with the blogging capabilities of GitHub pages.
